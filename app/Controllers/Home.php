@@ -15,11 +15,11 @@ class Home extends BaseController
         // $users = $this->user->findAll();
         // $users = $usersModel->findAll();
         $model = model(UsersModel::class);
-        $data['users'] = $model->getAll();
-        // $data = [
-        //     'users'=>$model->getAll(),
-        //     'title' => 'All Users',
-        // ];
+        // $data['users'] = $model->getAll();
+        $data = [
+            'users'=>$model->getAll(),
+            'title' => 'All Users',
+        ];
         return view('showallusers',$data);
     }
 }
