@@ -1,0 +1,937 @@
+CRITICAL - 2024-02-14 13:26:22 --> Error: Call to a member function model() on null
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 13:27:39 --> Error: Call to a member function model() on null
+in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 13:41:02 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\Home.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 13:57:58 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\Home.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:00:35 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\Home.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:10:20 --> Error: Call to a member function findAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:11:46 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:06 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:07 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:12 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:49 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:50 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:51 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:56 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:57 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:37:58 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:38:25 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 19.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:41:00 --> Error: Call to a member function getAll() on null
+in APPPATH\Controllers\Home.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:41:39 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:41:39 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:41:53 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:41:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:41:56 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:41:56 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:42:02 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:42:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:42:10 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:42:10 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:47:36 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:47:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:47:38 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:47:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:48:31 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:48:31 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:49:12 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:49:12 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:49:52 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:49:52 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:51:21 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:51:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:51:27 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:51:27 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:54:13 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:54:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:54:16 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:54:16 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:55:53 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:55:53 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:57:36 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:57:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+ERROR - 2024-02-14 14:57:41 --> Error connecting to the database: mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:185
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php(185): mysqli->real_connect('localhost', '', '', '', 3306, '', 0)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#7 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#13 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user ''@'localhost' (using password: NO) in C:\wamp64\www\CIweb3\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\wamp64\www\CIweb3\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\wamp64\www\CIweb3\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\wamp64\www\CIweb3\system\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\wamp64\www\CIweb3\system\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\wamp64\www\CIweb3\app\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+#6 C:\wamp64\www\CIweb3\app\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+#7 C:\wamp64\www\CIweb3\system\CodeIgniter.php(941): App\Controllers\Home->showall()
+#8 C:\wamp64\www\CIweb3\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\wamp64\www\CIweb3\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\wamp64\www\CIweb3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\wamp64\www\CIweb3\system\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2024-02-14 14:57:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user ''@'localhost' (using password: NO)
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `employees_info`', [], false)
+ 3 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(638): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\UsersModel.php(17): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Home.php(18): App\Models\UsersModel->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
+CRITICAL - 2024-02-14 14:59:17 --> ErrorException: Invalid argument supplied for foreach()
+in APPPATH\Views\showallusers.php on line 3.
+ 1 APPPATH\Views\showallusers.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', 'C:\\wamp64\\www\\CIweb3\\app\\Views\\showallusers.php', 3, [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\wamp64\\www\\CIweb3\\app\\Views\\showallusers.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('showallusers', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('showallusers', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Home->showall()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\wamp64\\www\\CIweb3\\public\\index.php')
