@@ -16,4 +16,7 @@ class UsersModel extends Model
     public function getAll(){
         return $this->findAll();
     }
+    public function getId($id){
+        return $this->find($id);
+    }
 }

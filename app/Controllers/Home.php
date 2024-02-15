@@ -22,4 +22,10 @@ class Home extends BaseController
         ];
         return view('showallusers',$data);
     }
+
+    public function show(int $id): string
+    {
+        $data = ['id'=>$id,];
+        return view('welcome_message',$data);
+    }
 }

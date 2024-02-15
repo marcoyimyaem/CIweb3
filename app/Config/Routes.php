@@ -7,3 +7,4 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 $routes->get('/showall', 'Home::showall');
+$routes->get('/show/(:num)', 'Home::show/$1');
