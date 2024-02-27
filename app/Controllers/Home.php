@@ -28,4 +28,18 @@ class Home extends BaseController
         $data = ['id'=>$id,];
         return view('welcome_message',$data);
     }
+    // redirect('https://example.com');
+    public function updateUser(): string
+    {
+        $model = model(UsersModel::class);
+        $id = $this->input->post('id');
+        $data = [
+            'first_name'=>$this->input->post('first_name'),
+            'last_name'=>$this->input->post('last_name'),
+
+        ];
+        $model->updateUser($id,$data);
+        // return view('welcome_message',$data);
+        redirect('/showall');
+    }
 }

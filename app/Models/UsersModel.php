@@ -19,4 +19,12 @@ class UsersModel extends Model
     public function getId($id){
         return $this->find($id);
     }
+
+    public function updateUser($id,$data){
+        return $this->update($id, $data);
+    }
+
+    public function newUser($data){
+        return $this->insert($data);
+    }
 }
